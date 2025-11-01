@@ -1,5 +1,5 @@
 // Logo setup
-const logoUrl = 'https://yourdomain.com/logo.png'; // Replace with actual logo path
+const logoUrl = 'https://raw.githubusercontent.com/Anyadahan/Anya-hanim-ofisi-/refs/heads/main/AnyahanimofiAnyahanlogoReplaced''; // Replaced with actual logo path
 document.getElementById('logo').src = logoUrl;
 
 // Supported languages
