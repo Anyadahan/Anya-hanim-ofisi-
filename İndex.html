@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anya Hanım Ofis</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+      background: #f9f9f9;
+    }
+    img#logo {
+      width: 120px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 1.8em;
+      margin-bottom: 10px;
+    }
+    select {
+      margin: 10px auto;
+      padding: 6px;
+      font-size: 1em;
+    }
+    .service-block {
+      margin: 20px auto;
+      padding: 10px;
+      max-width: 400px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    .service-block h3 {
+      margin: 0 0 5px;
+      font-size: 1.2em;
+    }
+    .service-block p {
+      margin: 0;
+      font-size: 0.95em;
+    }
+  </style>
+</head>
+<body>
+  <img id="logo" alt="Company Logo" />
+  <h1 id="welcome"></h1>
+
+  <label for="lang-select">🌐 Choose Language:</label>
+  <select id="lang-select">
+    <option value="en">English</option>
+    <option value="tr">Türkçe</option>
+    <option value="ru">Русский</option>
+    <option value="uk">Українська</option>
+    <option value="el">Ελληνικά</option>
+  </select>
+
+  <div id="services"></div>
+
+  <script src="main.js"></script>
+</body>
+</html>
