@@ -2,7 +2,7 @@
 
 ## 🌐 Company Overview
 
-Anya Hanım Ofis is a registered digital strategy and advocacy company based in Istanbul, Turkey. We specialize in multilingual content creation, trans-feminist campaigns, and decentralized web technologies.
+Anya Hanım Ofis is a registered digital  company based in Istanbul, Turkey. We 
 
 - **Trade Registry No:** 303040-5  
 - **Tax No:** 7391229473  
@@ -11,7 +11,6 @@ Anya Hanım Ofis is a registered digital strategy and advocacy company based in 
 
 ## 🧠 Mission
 
-We amplify visibility and solidarity through creative performance, strategic messaging, and digital empowerment — especially for marginalized communities and cross-cultural movements.
 
 ## 💻 Technical Focus
 
@@ -30,14 +29,6 @@ This project supports multilingual interfaces and content in:
 
 ## 📦 Deployment
 
-We deploy our DApps using Fleek and IPFS for censorship-resistant hosting. Custom domain integration is configured via DNSLink.
+
 
 ---
-
-## 🇹🇷 Türkçe
-
-**Anya Hanım Ofis**, İstanbul merkezli, dijital strateji ve savunuculuk alanında faaliyet gösteren resmi bir şirkettir. Bu depo, Binance Smart Chain ile entegre edilmiş React tabanlı DApp uygulamalarını barındırır.
-
-## 🇷🇺 Русский
-
-Anya Hanım Ofis — зарегистрированная компания в Стамбуле, специализирующаяся на цифровых стратегиях, транс-феминистских кампаниях и Web3-технологиях. Этот репозиторий содержит фронтенд для DApp-приложений, интегрированных с Binance Smart Chain.
